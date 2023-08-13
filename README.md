@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI & ML
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate for projects and codes let's build and learn 🤝 together 🙂
-- 📫 How to reach me  email at 📲🤳 akki042005@gmail.com
+- 📫 How to reach me?  email at 📲🤳 akki042005@gmail.com
 
 <!---
 Nimitt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

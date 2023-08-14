@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nimitt
 
-" If Code is "Poetry", GitHub is my "Canvas" "😺
+" If Code is "Poetry", GitHub is my "Canvas" 😺
 
 - 👀 I’m interested in AI & ML
 - 🌱 I’m currently learning python

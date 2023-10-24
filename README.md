@@ -10,14 +10,17 @@
 
 - 📫 How to reach me?  email at 📲🤳 akki042005@gmail.com
 
+- Text Message at Linkdin (I will not see them anyways)
+
 - 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nimittxo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nimittxo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimittxo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
+### Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### Thought of making something,To not look it Boring 💀
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nimittxo&icon=0&color=0)](https://visitcount.itsvg.in)

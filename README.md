@@ -12,6 +12,10 @@
 
 - Text Message at Linkdin (I will not see them anyways)
 
+- Is It a Weekend ? I am probably doing some random project
+( I have no Social Life ) 
+( I am Stuck in a loop of Texture Algorithm)
+
 - 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nimittxo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -26,5 +30,7 @@ Thought of making something,To not look it Boring 💀
 [![](https://visitcount.itsvg.in/api?id=Nimittxo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 Dawg ?! I need Help 😭 probably I am now Stuck on a bug 🐛
+
+
 
 

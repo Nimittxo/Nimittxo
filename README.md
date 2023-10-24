@@ -20,14 +20,11 @@
 
 ### Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-### Thought of making something,To not look it Boring 💀
+Thought of making something,To not look it Boring 💀
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nimittxo&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Nimittxo&icon=0&color=0)](https://visitcount.itsvg.in
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Dawg ?! I need Help 😭 probably I am now Stuck on a bug 🐛
 
-<!---
-Nimitt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+

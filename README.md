@@ -23,7 +23,7 @@
 Thought of making something,To not look it Boring 💀
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nimittxo&icon=0&color=0)](https://visitcount.itsvg.in)]
+[![](https://visitcount.itsvg.in/api?id=Nimittxo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 Dawg ?! I need Help 😭 probably I am now Stuck on a bug 🐛
 

@@ -2,9 +2,12 @@
 
 " If Code is "Poetry", GitHub is my "Canvas" 😺
 
-- 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Artificial intelligence and Machine Learning
+
+- 🌱 I’m currently learning Libraries Of Python
+
 - 💞️ I’m looking to collaborate for projects and codes let's build and learn 🤝 together 🙂
+
 - 📫 How to reach me?  email at 📲🤳 akki042005@gmail.com
 
 - 

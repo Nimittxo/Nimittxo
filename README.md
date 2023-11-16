@@ -1,4 +1,5 @@
-Hi 👋 My name is Nimitt Sharma
+Greetings,
+My name is Nimitt Sharma
 ==============================
 
 Machine Learning Engineer

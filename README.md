@@ -4,13 +4,13 @@
 ## 🚀 Machine Learning Engineer
 ---
 
-Welcome to my GitHub profile! It's been an exciting 2 years since my first "Hello World," and I'm loving every moment of this journey.
+Welcome to my GitHub profile! It's been an exciting 3 years since my first "Hello World," and I'm loving every moment of this journey.
 
 - 🌍 **Location:** Udaipur, Raj, India
 - 📧 **Email:** [akkki042005@gmail.com](mailto:akkki042005@gmail.com)
 - 🧠 **Learning:** Deep into AI and ML
-- 🤝 **Collaborations:** Open to projects related to Aviation (one of my favorite topics)
-- ⚡ **Fun Fact:** You'll never see me and Batman at the same time!
+- 🤝 **Collaborations:** Open to projects.
+- ⚡ **Fun Fact:** I am batman usually more active in nights
 
 ---
 

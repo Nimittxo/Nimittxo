@@ -7,6 +7,10 @@ Hi, Nimitt, from India, dabbling in C/C++, Rust, Python, and Js. Believing in lo
   <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="40" height="40" style="margin-right: 20px;"/> 
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="40" height="40" style="margin-right: 20px;"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40" style="margin-right: 20px;"/> 
+  <img src="https://nodejs.org/static/images/logo-hexagon.svg" alt="Node.js" width="40" height="40" style="margin-right: 20px;"/> 
+  <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Docker" width="40" height="40" style="margin-right: 20px;"/> 
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40" style="margin-right: 20px;"/> 
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="40" height="40"/>
 </p>
 
 - **Languages:** C/C++, Rust, Python, JavaScript

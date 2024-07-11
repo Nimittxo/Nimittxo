@@ -10,7 +10,7 @@ Hi, Nimitt,  from India, dabbling in C/C++, Rust, Python, and Js. Believing in l
 <!--END_SECTION:waka-->
 
 ### Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Nimittxo&theme=github)
+![GitHub Contribution Graph](https://github.com/Nimittxo.png?palette=github)
 
 ### GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimittxo&show_icons=true&hide_border=true)

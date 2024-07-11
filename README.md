@@ -1,12 +1,16 @@
 Hi, Nimitt, from India, dabbling in C/C++, Rust, Python, and Js. Believing in long-termism, I am often open source and enjoy experimenting with new ideas. The content below is automatically updated via Actions:
 
 ### Skills
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C/C++" width="20" height="20"/> C/C++
-- <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="20" height="20"/> Rust
-- <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="20" height="20"/> Python
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="20" height="20"/> JavaScript
-- Open Source Development
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C/C++" width="40" height="40"/> 
+  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="40" height="40"/> 
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/> 
+</p>
+
+- **Languages:** C/C++, Rust, Python, JavaScript
+- **Tools:** Open Source Development
 
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->

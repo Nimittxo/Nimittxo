@@ -10,8 +10,7 @@ Hi, Nimitt, from India, dabbling in C/C++, Rust, Python, and Js. Believing in lo
 <!--END_SECTION:waka-->
 
 ### Contribution Graph
-[![Nimitt's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nimittxo&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Nimitt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimittxo)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimittxo&show_icons=true&hide_border=true)
 

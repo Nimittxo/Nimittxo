@@ -3,7 +3,7 @@ Hi, Nimitt, from India, dabbling in C/C++, Rust, Python, and Js. Believing in lo
 ### Skills
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C/C++" width="40" height="40" style="margin-right: 20px;"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C/C++" width="80" height="80" style="margin-right: 20px;"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C/C++" width="40" height="40" style="margin-right: 20px;"/> 
   <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="40" height="40" style="margin-right: 20px;"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40" style="margin-right: 20px;"/> 

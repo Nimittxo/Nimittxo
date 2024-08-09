@@ -11,7 +11,7 @@ Hi, Nimitt, from India, dabbling in C/C++, Rust, Python, and Js. Believing in lo
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="80" height="80" style="margin-right: 20px;"/> 
   <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="Docker" width="80" height="80" style="margin-right: 20px;"/> 
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="80" height="80" style="margin-right: 20px;"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="TensorFlow" width="200" height="200"  style="margin-bottom: 20px; vertical-align: middle;/>
+  <img src="https://drive.google.com/uc?export=view&id=1sU-oEfrajYd0NsBDmpj49_j9TeKXJ3Hk" alt="TensorFlow" width="200" height="200"  style="margin-bottom: 20px; vertical-align: middle;/>
 </p>
 
 - **Languages:** C/C++, Rust, Python, JavaScript

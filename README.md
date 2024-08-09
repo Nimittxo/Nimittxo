@@ -8,7 +8,8 @@ Hi, Nimitt, from India, dabbling in C/C++, Rust, Python, and Js. Believing in lo
   <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" width="80" height="80" style="margin-right: 20px;"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="80" height="80" style="margin-right: 20px;"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="80" height="80" style="margin-right: 20px;"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="80" height="80" style="margin-right: 20px;"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="80" height="80" style="margin-right: 20px;"/>
+  <img src="https://drive.google.com/uc?export=view&id=1sU-oEfrajYd0NsBDmpj49_j9TeKXJ3Hk" alt="MySQL" width="80" height="80" style="margin-right: 20px;"/> 
   <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="Docker" width="80" height="80" style="margin-right: 20px;"/> 
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="80" height="80" style="margin-right: 20px;"/> 
   <img src="https://drive.google.com/uc?export=view&id=1sU-oEfrajYd0NsBDmpj49_j9TeKXJ3Hk" alt="TensorFlow" width="80" height="80"  style="margin-right: 20px; vertical-align: middle;/>

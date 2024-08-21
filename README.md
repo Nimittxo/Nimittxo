@@ -1,4 +1,5 @@
-Hi, Nimitt, from India, dabbling in C/C++, Rust, Python, and Js. Believing in long-termism, I often do open source Projects and enjoy experimenting with new ideas. The content below is automatically updated via Actions:
+Hi, Nimitt, from India, dabbling in C/C++, Rust, Python, and Js. Believing in long-termism, I often do open source Projects and enjoy experimenting with new ideas. 
+`The content below is automatically updated via Actions`:
 
 ### Skills
 
@@ -39,4 +40,4 @@ Hi, Nimitt, from India, dabbling in C/C++, Rust, Python, and Js. Believing in lo
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/nimitt-sharma-2915bb274/)
 - [Twitter](https://x.com/sharma_nimitt)
-- [Email](https://mail.google.com/mail/u/0/#inbox?compose=new) nimitt042005.dev@gmail.com
+- [Email](https://mail.google.com/mail/u/0/#inbox?compose=new)

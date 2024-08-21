@@ -37,6 +37,6 @@ Hi, Nimitt, from India, dabbling in C/C++, Rust, Python, and Js. Believing in lo
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
-- [LinkedIn](your-linkedin-link)
-- [Twitter](your-twitter-link)
-- [Email](your-email-link)
+- [LinkedIn](https://www.linkedin.com/in/nimitt-sharma-2915bb274/)
+- [Twitter](https://x.com/sharma_nimitt)
+- [Email](nimitt042005.dev@gmail.com)

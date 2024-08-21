@@ -1,4 +1,4 @@
-Hi, Nimitt, from India, dabbling in C/C++, Rust, Python, and Js. Believing in long-termism, I am often open source and enjoy experimenting with new ideas. The content below is automatically updated via Actions:
+Hi, Nimitt, from India, dabbling in C/C++, Rust, Python, and Js. Believing in long-termism, I often do open source Projects and enjoy experimenting with new ideas. The content below is automatically updated via Actions:
 
 ### Skills
 

@@ -28,7 +28,7 @@ The content below is automatically updated via Actions:
 [![Nimitt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimittxo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### GitHub Stats
-[![Nimitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimittxo)](https://github.com/anuraghazra/github-readme-stats)
+![Nimitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimittxo&show_icons=true&theme=radical)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimittxo&layout=compact)

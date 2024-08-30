@@ -1,5 +1,12 @@
 Hi, Nimitt, from India, dabbling in C/C++, Rust, Python, and Js. Believing in long-termism, I often do open source Projects and enjoy experimenting with new ideas. 
 The content below is automatically updated via Actions:
+🎵 Check out my favorite song: 
+
+[![My Favorite Song](https://drive.google.com/uc?id=10yVnot1yjqhaC_hFbLptWF_evbqj1jOT)](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj)
+
+
+
+
 
 ### Skills
 
@@ -28,15 +35,10 @@ The content below is automatically updated via Actions:
 [![Nimitt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimittxo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### GitHub Stats
-![Nimitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimittxo&show_icons=true&theme=merko)
+![Nimitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimittxo&show_icons=true&theme=merko&rank_icon=percentile&api_domain=wakatime.com)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimittxo&layout=compact)
-
-### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimittxo&layout=donut)](https://github.com/Nimittxo/C-Practice)
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/nimitt-sharma-2915bb274/)
 - [Twitter](https://x.com/sharma_nimitt)

@@ -35,7 +35,7 @@ The content below is automatically updated via Actions:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimittxo&layout=donut)](https://github.com/Nimittxo/C-Practice)
 
 ### What I am Listening currently 😩
-[![My Favorite Song](https://drive.google.com/uc?id=10yVnot1yjqhaC_hFbLptWF_evbqj1jOT)](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj)
+[![My Favorite Song](https://drive.google.com/uc?id=1_WobxU57PDLOCmwSSFtEI5Df-QjjvYUy)](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj)
 
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/nimitt-sharma-2915bb274/)

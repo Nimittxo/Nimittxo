@@ -35,7 +35,7 @@ The content below is automatically updated via Actions:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimittxo&theme=merko" alt="Nimittxo" /></p>
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimittxo&layout=donut)](https://github.com/Nimittxo/C-Practice)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimittxo&layout=donut&theme=merko)](https://github.com/Nimittxo/C-Practice)
 
 
 

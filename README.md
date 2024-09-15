@@ -32,7 +32,7 @@ The content below is automatically updated via Actions:
 
 ### GitHub Stats
 ![Nimitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimittxo&show_icons=true&theme=merko&rank_icon=percentile&api_domain=wakatime.com)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimittxo&" alt="Nimittxo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimittxo&theme=merko" alt="Nimittxo" /></p>
 
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimittxo&layout=donut)](https://github.com/Nimittxo/C-Practice)

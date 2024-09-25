@@ -31,7 +31,7 @@ The content below is automatically updated via Actions:
 [![Nimitt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimittxo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### GitHub Stats
-![Nimitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimittxo&show_icons=true&theme=merko&rank_icon=percentile&api_domain=wakatime.com)
+![Nimitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=greeenboi&show_icons=true&theme=merko&rank_icon=percentile&api_domain=wakatime.com)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimittxo&theme=merko" alt="Nimittxo" /></p>
 
 ### Top Languages

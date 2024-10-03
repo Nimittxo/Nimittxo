@@ -30,6 +30,10 @@ The content below is automatically updated via Actions:
 ### Contribution Graph
 [![Nimitt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimittxo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@akki04200510288/30-nites-of-code)  
+  ![@akki04200510288 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=akki04200510288)
+
 ### GitHub Stats
 ![Nimitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimittxo&show_icons=true&theme=merko&rank_icon=percentile&api_domain=wakatime.com)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimittxo&theme=merko" alt="Nimittxo" /></p>

@@ -43,8 +43,8 @@ The content below is automatically updated via Actions:
 
 [![Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)
 🎶[Listen to this track on Spotify](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)
-[![Spotify Track](https://i.scdn.co/image/ab67616d00001e02a3b8eae9e4c1dfde18649d17)](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2tudvzsrR56uom6smgOcSf?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Spotify Track](https://drive.google.com/file/d/1DvDDrkpAOHRgHznbN9fjx27OBSvX75AL/view?usp=sharing)](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)
+
 
 
 

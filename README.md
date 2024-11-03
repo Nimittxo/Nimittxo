@@ -43,7 +43,7 @@ The content below is automatically updated via Actions:
 
 [![Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)
 🎶[Listen to this track on Spotify](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)
-[![Spotify Track](https://i.imgur.com/your_image_id.jpg)](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)
+[![Spotify Track](https://imgur.com/elnDuTA)](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)
 
 
 

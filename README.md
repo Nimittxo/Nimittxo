@@ -41,10 +41,12 @@ The content below is automatically updated via Actions:
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimittxo&layout=donut&theme=merko)](https://github.com/Nimittxo/C-Practice)
 
+[![Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)
+🎶[Listen to this track on Spotify](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)
+[![Spotify Track](https://i.scdn.co/image/ab67616d00001e02a3b8eae9e4c1dfde18649d17)](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)
 
 
-## What I am Listening to Currently 😩
-[![My Favorite Song](https://drive.google.com/uc?id=1_WobxU57PDLOCmwSSFtEI5Df-QjjvYUy)](https://open.spotify.com/track/7581x5zZnkhgt2q7IoE4eq?si=62116ec048904d2b)
+
 
 ### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/nimitt-sharma-2915bb274/)

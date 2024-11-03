@@ -42,8 +42,8 @@ The content below is automatically updated via Actions:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimittxo&layout=donut&theme=merko)](https://github.com/Nimittxo/C-Practice)
 
 [![Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)
-🎶[Listen to this track on Spotify](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)
 [![Spotify Track](https://i.imgur.com/elnDuTA.jpg)](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)
+🎶[Listen to this track on Spotify](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)
 
 
 

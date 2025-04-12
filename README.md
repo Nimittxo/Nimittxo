@@ -30,7 +30,7 @@ The content below is automatically updated via Actions:
 ### Contribution Graph
 [![Nimitt's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nimittxo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <link href="https://octodex.github.com/daftpunktocat-guy/" rel="alternate" type="text/html" title="Daftpunktocat-Guy"/>
-<updated>Github Octocat Badge => Nimitt Sharma {Recieved 12 April 2025}10:44 AM UTC</updated>
+<updated>Github Octocat Badge => Nimittxo{Recieved 12 April 2025}10:44 AM UTC</updated>
 <id>https://octodex.github.com/daftpunktocat-guy/</id>
 <content type="html"> <p> <a href="https://octodex.github.com/daftpunktocat-guy/"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="500" height="500"/> </a> </p> <p>The <strong><a href="https://octodex.github.com/daftpunktocat-guy/">Daftpunktocat-Guy</a></strong> by jeejkang </p> </content>
 

@@ -32,7 +32,7 @@ The content below is automatically updated via Actions:
 <link href="https://octodex.github.com/daftpunktocat-guy/" rel="alternate" type="text/html" title="Daftpunktocat-Guy"/>
 <updated>2013-06-10T00:00:00+00:00</updated>
 <id>https://octodex.github.com/daftpunktocat-guy/</id>
-<content type="html"> <p> <a href="https://octodex.github.com/daftpunktocat-guy/"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="80" height="80"/> </a> </p> <p>The <strong><a href="https://octodex.github.com/daftpunktocat-guy/">Daftpunktocat-Guy</a></strong> by jeejkang </p> </content>
+<content type="html"> <p> <a href="https://octodex.github.com/daftpunktocat-guy/"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="500" height="500"/> </a> </p> <p>The <strong><a href="https://octodex.github.com/daftpunktocat-guy/">Daftpunktocat-Guy</a></strong> by jeejkang </p> </content>
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@akki04200510288/30-nites-of-code)  

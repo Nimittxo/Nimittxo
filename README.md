@@ -34,10 +34,6 @@ The content below is automatically updated via Actions:
 <id>https://octodex.github.com/daftpunktocat-guy/</id>
 <content type="html"> <p> <a href="https://octodex.github.com/daftpunktocat-guy/"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="500" height="500"/> </a> </p> <p>The <strong><a href="https://octodex.github.com/daftpunktocat-guy/">Daftpunktocat-Guy</a></strong> by jeejkang </p> </content>
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@akki04200510288/30-nites-of-code)  
-  ![@akki04200510288 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=akki04200510288)
-
 ### GitHub Stats
 ![Nimitt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimittxo&show_icons=true&theme=merko&rank_icon=percentile&api_domain=wakatime.com)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimittxo&theme=merko" alt="Nimittxo" /></p>

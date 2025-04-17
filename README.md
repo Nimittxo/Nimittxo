@@ -45,7 +45,7 @@ The content below is automatically updated via Actions:
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimittxo&layout=donut&theme=merko)](https://github.com/Nimittxo/C-Practice)
 
-[![Album Cover](https://i.imgur.com/elnDuTA.jpg)](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)  
+[![Album Cover](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndlcXI2M3FhbHZwbmk0aTNkMXJweHJuY2FoaXdrMDJtdXAwMHJhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EitSwiDyDn58Q8je1M/giphy.gif)](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)  
 [![Spotify Listen Now](https://img.shields.io/badge/Spotify-Listen%20Now-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf)
 
 ### Connect with me

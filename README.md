@@ -47,7 +47,7 @@ The content below is automatically updated via Actions:
 
 <p align="center">
   <a href="https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz?utm_source=generator">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndlcXI2M3FhbHZwbmk0aTNkMXJweHJuY2FoaXdrMDJtdXAwMHJhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EitSwiDyDn58Q8je1M/giphy.gif" width="300"/>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndlcXI2M3FhbHZwbmk0aTNkMXJweHJuY2FoaXdrMDJtdXAwMHJhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EitSwiDyDn58Q8je1M/giphy.gif" width="800"/>
   </a>
   <br/>
   <a href="https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz?utm_source=generator">

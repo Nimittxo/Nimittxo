@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Global styles for your dark theme */
+body {
+  background-color: #0f172a; /* Slate 900 */
+  color: #ffffff;
+  overflow-x: hidden; /* Prevents horizontal scroll from animations */
+}

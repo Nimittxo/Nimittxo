@@ -1,35 +1,27 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { HashRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+
+import WW2Tech from './pages/home/WW2Tech';
+//import FoodHealth from './pages/home/FoodHealth';
+
+// Import a Layout if you have a Navbar you want on every page
+// import Navbar from './components/Navbar';
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+    // We use HashRouter for GitHub Pages compatibility
+    // It creates URLs like nimittsharma.online/#/home
+    <Router>
+      
+      {/* <Navbar />  <-- Your Navbar would go here so it stays on every page */}
+
+      <Routes>
+        <Route path="/Technology-and-WW2" element={<WW2Tech />} />
+        {/* 404 Fallback - If they type a random URL */}
+        <Route path="*" element={<div className="text-white p-10">404: Page Not Found</div>} />
+
+      </Routes>
+    </Router>
+  );
 }
 
-export default App
+export default App;

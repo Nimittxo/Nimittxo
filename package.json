@@ -6,7 +6,7 @@
   "homepage": "https://nimittsharma.online",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "tsc && vite build && copy dist\\index.html dist\\404.html",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
@@ -17,6 +17,7 @@
     "@gsap/react": "^2.1.2",
     "@react-three/drei": "^10.7.7",
     "@react-three/fiber": "^9.4.2",
+    "@studio-freight/react-lenis": "^0.0.47",
     "@types/three": "^0.182.0",
     "autoprefixer": "^10.4.23",
     "framer-motion": "^12.23.26",

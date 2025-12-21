@@ -1,17 +1,20 @@
-import { HashRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
-
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import WW2Tech from './pages/home/WW2Tech';
-import LondonScrolly from './components/LondonScrolly';
-//import FoodHealth from './pages/home/FoodHealth';
-
-// Import a Layout if you have a Navbar you want on every page
-// import Navbar from './components/Navbar';
 
 function App() {
   return (
-    <>
-      <WW2Tech />
-    </>
+    <Router>
+      <Routes>
+        {/* If they go to the homepage, send them to /ww2Tech */}
+        <Route path="/" element={<Navigate to="/ww2Tech" replace />} />
+        
+        {/* The Main Page */}
+        <Route path="/ww2Tech" element={<WW2Tech />} />
+        
+        {/* If they type a random URL, send them to /ww2Tech */}
+        <Route path="*" element={<Navigate to="/ww2Tech" replace />} />
+      </Routes>
+    </Router>
   );
 }
 
